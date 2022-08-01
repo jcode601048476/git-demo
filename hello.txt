@@ -17,5 +17,6 @@ hello git! hello jianghao!
 hello git! hello jianghao!
 hello git! hello jianghao!
 hello git! hello jianghao! master test
-hello git! hello jianghao!
+hello git! hello jianghao! hot-fix test
+
 
